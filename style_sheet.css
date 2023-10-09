@@ -6,27 +6,28 @@
 #nav {
     font-family: Calibri;
     font-size: 20px; 
-    color: #051212;
+    color: #0b0b0b;
 }
 
 #banner {
-    color: #051212;
+    color: #0b0b0b;
    font-family: Calibri;
    font-size: 20px;
    text-align: center;
 }
 
 #main {
+    color: #0b0b0b;
     font-family: Calibri;
     font-size: 50px;
-    color: #051212;
+    text-align: center;
 }
 
 #form {
     text-align: center;
     font-family: calibri;
     font-size: 20px;
-    color: #051212;   
+    color: #0b0b0b;   
 }
 
 .linkedin {
