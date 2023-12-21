@@ -27,10 +27,11 @@
     height:auto;
 }
 
-#nav {
+.header {
     font-family: Calibri;
     font-size: 20px; 
     color: #0b0b0b;
+    background-color: rgb(245, 242, 239)
 }
 
 #banner {
