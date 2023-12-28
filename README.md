@@ -20,7 +20,7 @@ Naviagte their way through the different pages with ease and submit a contact fo
 I have learnt a lot about the way coding needs to be written and how the order of the can effect the desired outcome. 
 
 ### Continued development
-I would like to learn more CSS styling and how to optimize it. 
+I would like to learn more CSS styling and how to optimize it. I really struggled with how to make the site viewable and user friendly on different screen sizes, especially mobile viewing. 
 
 ## Author
 Hana
