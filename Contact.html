@@ -3,7 +3,7 @@
 
 <head>
     <meta= charset:uft-8/>
-    <metaname="viewport" content="width=device-width, inital-scale=1.0"/>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
     <metaname-"description" content="Portfolio"/>
     <metaname="keywords" content="Front end developer, website content"/>
 
@@ -13,7 +13,7 @@
 </head>
 <body>
 <!--Add navigation system-->
-	<div class="header"> 
+	<div id="nav"> 
 		<Table>
 			<tr>
 				<th><a href="index.html" style="text-decoration:none;"><div class="home" >Home</div></a></th>
@@ -23,9 +23,23 @@
 		</Table>
 	</div>
 <!--main body-->
-	<div id="main">
-		<p> Coming soon  </p>
-	</div>
+<div id="form">
+	<p>Please complete the form below - I am currently open to work </p>
+	<form action="mailto:h.beaniee@googlemail.com">
+		<ul type="none">
+			<li><label for="fname"> Full name</label></li>
+			<input type="text" id="fname" name="fullname" placeholder="Full Name..">
+
+			<li><label for="eaddress">Email</label></li>
+			<input type="text" id="eaddress" name="eaddress" placeholder="Email address..">
+
+			<li><label for="subject">Subject</label></li>
+			<textarea id="subject" name="subject" placeholder="More information" style="height:250px"></textarea>
+
+			<li><input type="submit" value="Submit"></li>
+			</ul>
+	</form>
+</div>
 
 <!--footer section-->
 <div id="footer">
@@ -33,9 +47,13 @@
 		<th><a href=mailto:h.beniee@gmail.com target="_blank"><img src="email.jpg" div class="email"></div></a>
 		<a href="https://www.linkedin.com/in/hana-mailing-smith-097a83162/" target="_blank"><img src="linkedin.jpg" div class="linkedin"></div></a>
 		<a href="https://github.com/Beaniee2" target="_blank"><img src="github.jpg" div class="github"></div></a></th>
-		<p id="copy">© 2023</p>
+		<p id="copy">© Hana Mailing-Smith 2023</p>
 		
 	</table>	
+</div>
+
+</body>
+</html>	
 </div>
 
 </body>
