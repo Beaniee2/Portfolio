@@ -102,8 +102,8 @@
 }
 
 .ul {
-  display: inline;
+  display: float;
   list-style-type: none;
   margin: auto;
-  padding: auto;
+  padding: 6-px;
 }
