@@ -76,3 +76,29 @@
     font-family: calibri;
     font-size: 10px;
 }
+
+.github {
+    height: 50px;
+    width: 50px;
+}
+
+.email {
+    height: 50px;
+    width: 50px;
+}
+
+#header {
+  text-align: center;
+  font-family: calibri;
+  font-size: 20px;
+  color: #0b0b0b; 
+  background-color: rgb(216, 183, 143);
+}
+
+#footer {
+  text-align: center;
+  font-family: calibri;
+  font-size: 20px;
+  color: #0b0b0b; 
+  background-color: rgb(216, 183, 143);
+}
