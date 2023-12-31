@@ -105,10 +105,4 @@
   font-family: calibri;
   font-size: 20px;
   color: #0b0b0b; 
-.ul {
-    display: list-item;
-    list-style-type: none;
-    margin: auto;
-    padding: auto;
-  }
 }
